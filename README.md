@@ -33,7 +33,7 @@ print(sol)
 ```
 
 ## Output:
-![](./linear%20equation.png)
+![](./Screenshot%202023-01-14%20211655.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
